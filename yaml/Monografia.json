@@ -1,0 +1,2794 @@
+[
+	{
+		"id": "http://zotero.org/users/6857049/items/DJ5MP8IW",
+		"type": "document",
+		"title": "Bertaud 2014 - The Formation of Urban Spatial Structures.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/T2RX539D",
+		"type": "document",
+		"title": "Bertaud et al 1988 - Efficiency in Land Use and Infra Design - Bertaud Model.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/XLXKRI6Q",
+		"type": "document",
+		"title": "OECD 2017 - The governance of land use.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/GLPUALFF",
+		"type": "document",
+		"title": "UN-Habitat 201X - The Economics of Urban Form.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/IDKA8VZS",
+		"type": "document",
+		"title": "(PPT) Bertaud 2014 - Housing Affordability and Freedom to Build.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/BA2KMPPJ",
+		"type": "document",
+		"title": "(Transport and Mobility) Conventz et al 2014 - Hub Cities in the Knowledge Economy.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/6KB3AM3I",
+		"type": "document",
+		"title": "Angel 2010 - Sprawl.pdf"
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/HYYHAM5D",
+		"type": "document",
+		"title": "ANSELIN, Luc (2005). Exploring Spatial Data with GeoDa - A Workbook.pdf"
+	},
+	{
+		"id": "badalyan2014",
+		"type": "article-journal",
+		"abstract": "Provision of efficient, reliable, and affordable infrastructure is essential for economic growth. Transportation infrastructure in particular, is vital to the prosperity of regions. To investigate the relationship and the direction of causality between transport infrastructure, investment in infrastructure and economic growth, we use panel cointegration analysis and panel causality analysis for three countries Armenia, Turkey, and Georgia. We use annual data of Armenia, Turkey and Georgia for the period 1982-2010.The tests proved the existence of more than one cointegrating vector indicating that the system under examination is stationary in more than one direction. The VECM results showed that gross capital formation and road/rail goods transported have a positive and statistically significant impact on economic growth in the short- run. Overall, the existence of bidirectional causality between economic growth and infrastructure investment, and between road and rail passengers carried and infrastructure investment was indicated in both the short and long-run.",
+		"container-title": "Review of Agricultural and Applied Economics",
+		"DOI": "10.15414/raae.2014.17.02.22-31",
+		"ISSN": "13369261",
+		"issue": "02",
+		"journalAbbreviation": "RAAE",
+		"language": "en",
+		"page": "22-31",
+		"source": "DOI.org (Crossref)",
+		"title": "TRANSPORT INFRASTRUCTURE AND ECONOMIC GROWTH: PANEL DATA APPROACH FOR ARMENIA, GEORGIA AND TURKEY",
+		"title-short": "TRANSPORT INFRASTRUCTURE AND ECONOMIC GROWTH",
+		"URL": "http://roaae.org/issue/review-of-agricultural-and-applied-economics-raae-vol-17-no-22014/?article=transport-infrastructure-and-economic-growth-panel-data-approach-for-armenia-georgia-and-turkey",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Badalyan",
+				"given": "Gohar"
+			},
+			{
+				"family": "Herzfeld",
+				"given": "Thomas"
+			},
+			{
+				"family": "Rajcaniova",
+				"given": "Miroslava"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "bartholomew2011",
+		"type": "article-journal",
+		"abstract": "Recent consumer surveys and demographic analyses have indicated a growing market for pedestrian- and transit-designed development. Theoretically, this market shift should be reflected in the price people are willing to pay for those styles of development. This article traces the literature that uses hedonic price methods for testing this hypothesis, either by assessing pedestrian/transit-design development holistically or by evaluating its component parts. The literature confirms that the market shift is, indeed, being capitalized into real estate prices and demonstrates that the amenity-based elements of transit-designed development play an important positive role in urban land markets, independent of the accessibility benefits provided by transit.",
+		"container-title": "Journal of Planning Literature",
+		"DOI": "10.1177/0885412210386540",
+		"ISSN": "0885-4122, 1552-6593",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Planning Literature",
+		"language": "en",
+		"page": "18-34",
+		"source": "DOI.org (Crossref)",
+		"title": "Hedonic Price Effects of Pedestrian- and Transit-Oriented Development",
+		"URL": "http://journals.sagepub.com/doi/10.1177/0885412210386540",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Bartholomew",
+				"given": "Keith"
+			},
+			{
+				"family": "Ewing",
+				"given": "Reid"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "brueckner2011",
+		"type": "book",
+		"call-number": "HT321 .B78 2011",
+		"event-place": "Cambridge, Mass",
+		"ISBN": "978-0-262-01636-0",
+		"language": "en",
+		"note": "OCLC: ocn703104542",
+		"number-of-pages": "285",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge, Mass",
+		"source": "Library of Congress ISBN",
+		"title": "Lectures on urban economics",
+		"author": [
+			{
+				"family": "Brueckner",
+				"given": "Jan K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "fujita1982",
+		"type": "article-journal",
+		"language": "en",
+		"page": "36",
+		"source": "Zotero",
+		"title": "Multiple equilibrium and structural transition of non-monocentric urban configurations",
+		"author": [
+			{
+				"family": "Fujita",
+				"given": "Masahisa"
+			},
+			{
+				"family": "Ogawa",
+				"given": "Hideaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "heikkila2009",
+		"type": "article-journal",
+		"abstract": "This paper builds on and extends a classic paper (hereafter referred to as F ^ O) published by Masahisa Fujita and Hideaki Ogawa in 1982. Their paper models the emergence of urban centers brought about by household and firm location decisions in the context of spatially differentiated labor and land market interactions. Their approach is an analytical one that seeks to characterize the equilibrium values of the system. In contrast, we employ an agent-based modeling (ABM) approach that seeks to replicate the individual household and firm behaviors that lead to equilibrium or nonequilibrium outcomes. The F ^ O model has little to say about what happens outside of equilibrium, while the ABM approach is preoccupied with this question and is particularly well suited to address questions of path dependency and bounded rationality that lie well beyond the scope of the F ^ O original. We demonstrate that the urban outcomes that emerge depend critically upon the bidding behavior of agents and the institutional context within which their decisions are made.",
+		"container-title": "Environment and Planning B: Planning and Design",
+		"DOI": "10.1068/b34080",
+		"ISSN": "0265-8135, 1472-3417",
+		"issue": "4",
+		"journalAbbreviation": "Environ Plann B Plann Des",
+		"language": "en",
+		"page": "741-756",
+		"source": "DOI.org (Crossref)",
+		"title": "Fujita and Ogawa Revisited: An Agent-Based Modeling Approach",
+		"title-short": "Fujita and Ogawa Revisited",
+		"URL": "http://journals.sagepub.com/doi/10.1068/b34080",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Heikkila",
+				"given": "Eric J"
+			},
+			{
+				"family": "Wang",
+				"given": "Yiming"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "hermann2005",
+		"type": "article-journal",
+		"abstract": "In this article, we use a hedonic equation to estimate the implicit prices of urban amenities based on housing market data for the city of São Paulo. We test two different specifications, one with the original independent variables, and another with factors to correct for multicollinearity. In addition to the traditional monocentric model, we include an accessibility vector for a duocentric city. A criterion to select the appropriate environmental variables based on residual spatial interpolation is introduced. We conclude that proximity to train stations, green areas and strict residential zones raise rents, while criminality reduces them.",
+		"container-title": "Estudos Econômicos (São Paulo)",
+		"DOI": "10.1590/S0101-41612005000200001",
+		"ISSN": "0101-4161",
+		"issue": "2",
+		"journalAbbreviation": "Estud. Econ.",
+		"language": "pt",
+		"page": "237-269",
+		"source": "DOI.org (Crossref)",
+		"title": "Mercado imobiliário e amenidades urbanas: a view through the window",
+		"title-short": "Mercado imobiliário e amenidades urbanas",
+		"URL": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-41612005000200001&lng=pt&tlng=pt",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Hermann",
+				"given": "Bruno M."
+			},
+			{
+				"family": "Haddad",
+				"given": "Eduardo A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "higgins2016",
+		"type": "article-journal",
+		"abstract": "Identifying and measuring the land value uplift (LVU) impacts of rapid transit are important for a number of reasons. However, despite the general notion that rapid transit does confer positive LVU beneﬁts, our comprehensive and critical review of more than 130 analyses across 60 studies completed in North America over the past 40 years ﬁnds signiﬁcant heterogeneity in research outcomes, leaving many signiﬁcant questions unanswered. Beyond high-level differences in study inputs, we argue that a fundamental source of variability is a lack of empirical speciﬁcity from the use of proximity as the dominant way in which LVU beneﬁts are captured. This use of a proxy leads to the potential for omitted variables and unobserved relationships, and exposes previous work to the potential for misvalued results. To overcome this issue, we outline recommendations for future research, namely a recognition of relative accessibility and the possibility of LVU impacts from transit-oriented development. Incorporating measures related to these factors into LVU models can reveal their implicit prices, resulting in research that is more theoretically inclusive, empirically comprehensive, comparable, and able to provide important information to inform policy analysis and prescription.",
+		"container-title": "Transport Reviews",
+		"DOI": "10.1080/01441647.2016.1174748",
+		"ISSN": "0144-1647, 1464-5327",
+		"issue": "5",
+		"journalAbbreviation": "Transport Reviews",
+		"language": "en",
+		"page": "610-634",
+		"source": "DOI.org (Crossref)",
+		"title": "Forty years of modelling rapid transit’s land value uplift in North America: moving beyond the tip of the iceberg",
+		"title-short": "Forty years of modelling rapid transit’s land value uplift in North America",
+		"URL": "http://www.tandfonline.com/doi/full/10.1080/01441647.2016.1174748",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Higgins",
+				"given": "Christopher D."
+			},
+			{
+				"family": "Kanaroglou",
+				"given": "Pavlos S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "d.knowles2016",
+		"type": "article-journal",
+		"abstract": "Transport plays a critical role in facilitating competitiveness in post-industrial economies. High quality transport services and infrastructure enhance internal and external connectivity. This research examines published and unpublished evidence of economic impacts of modern light rail (tram and light metro) systems in the United Kingdom and globally. Evidence is considered relating outcomes of investment in light rail systems to: unlocking previously hard to reach sites for development; triggering fresh growth through elimination of signiﬁcant transport constraints; stimulation of inward investment; extension of labour market catchment areas; reorganisation or rationalisation of production, distribution and land use; and land and property value increase and capture. Urban light rail investment can help regenerate Central Business Districts and boost employment and property prices. Similar rail investments in different locations may not however have the same economic impacts —geography matters. Other conditions in addition to transport investment are required for positive externalities. © 2015 Elsevier Ltd. All rights reserved.",
+		"container-title": "Journal of Transport Geography",
+		"DOI": "10.1016/j.jtrangeo.2015.09.002",
+		"ISSN": "09666923",
+		"journalAbbreviation": "Journal of Transport Geography",
+		"language": "en",
+		"page": "430-439",
+		"source": "DOI.org (Crossref)",
+		"title": "Evaluation of wider economic impacts of light rail investment on cities",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0966692315001659",
+		"volume": "54",
+		"author": [
+			{
+				"family": "D. Knowles",
+				"given": "Richard"
+			},
+			{
+				"family": "Ferbrache",
+				"given": "Fiona"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "martinez2012",
+		"type": "article-journal",
+		"container-title": "Journal of Transport and Land Use",
+		"DOI": "10.5198/jtlu.v5i1.251",
+		"ISSN": "1938-7849",
+		"issue": "1",
+		"journalAbbreviation": "JTLU",
+		"language": "en",
+		"page": "65-82",
+		"source": "DOI.org (Crossref)",
+		"title": "The value capture potential of the Lisbon Subway",
+		"URL": "https://www.jtlu.org/index.php/jtlu/article/view/251",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Martínez",
+				"given": "Luis Miguel Garrido"
+			},
+			{
+				"family": "Viegas",
+				"given": "Jose Manuel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "petheram2013",
+		"type": "article-journal",
+		"container-title": "Transportation Research Record: Journal of the Transportation Research Board",
+		"DOI": "10.3141/2357-11",
+		"ISSN": "0361-1981, 2169-4052",
+		"issue": "1",
+		"journalAbbreviation": "Transportation Research Record",
+		"language": "en",
+		"page": "95-99",
+		"source": "DOI.org (Crossref)",
+		"title": "Use of the Real Estate Market to Establish Light Rail Station Catchment Areas: Case Study of Attached Residential Property Values in Salt Lake County, Utah, by Light Rail Station Distance",
+		"title-short": "Use of the Real Estate Market to Establish Light Rail Station Catchment Areas",
+		"URL": "http://journals.sagepub.com/doi/10.3141/2357-11",
+		"volume": "2357",
+		"author": [
+			{
+				"family": "Petheram",
+				"given": "Susan J."
+			},
+			{
+				"family": "Nelson",
+				"given": "Arthur C."
+			},
+			{
+				"family": "Miller",
+				"given": "Matt"
+			},
+			{
+				"family": "Ewing",
+				"given": "Reid"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "ryan1999",
+		"type": "article-journal",
+		"abstract": "This article reviews empirical studies of the relationship between transportation facilities—highways, heavy rail, and light rail transit systems—and property values. The main objective is to develop an explanation for inconsistent results presented in this literature over the past several decades. Results from these studies vary based on whether travel time or travel distance is used as a measure of accessibility. When researchers measure access to highways and rail transit in terms of travel time, study results usually indicate the expected inverse relationship between access to transportation facilities and property values. When studies use travel distance as a measure of access to transportation facilities, results tend to show mixed property value effects. The delineation of study areas also appears to influence the direction of results. This article offers a new interpretation of the transportation facility-property value literature that improves our ability to measure this relationship and to anticipate land-market responses to transportation facilities.",
+		"container-title": "Journal of Planning Literature",
+		"DOI": "10.1177/08854129922092487",
+		"ISSN": "0885-4122, 1552-6593",
+		"issue": "4",
+		"journalAbbreviation": "Journal of Planning Literature",
+		"language": "en",
+		"page": "412-427",
+		"source": "DOI.org (Crossref)",
+		"title": "Property Values and Transportation Facilities: Finding the Transportation-Land Use Connection",
+		"title-short": "Property Values and Transportation Facilities",
+		"URL": "http://journals.sagepub.com/doi/10.1177/08854129922092487",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Ryan",
+				"given": "Sherry"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "mathur2014",
+		"type": "article-journal",
+		"language": "en",
+		"page": "229",
+		"source": "Zotero",
+		"title": "Innovation in Public Transport Finance",
+		"author": [
+			{
+				"family": "Mathur",
+				"given": "Shishir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "atkinson-palombo2010",
+		"type": "article-journal",
+		"abstract": "Light rail transit (LRT) is increasingly accompanied by overlay zoning which specifies the density and type of future development to encourage landscapes conducive to transit use. Neighbourhood type (based on land use mix) is used to partition data and investigate how pre-existing land use, treatment with a park-and-ride (PAR) versus walk-and-ride (WAR) station and overlay zoning interrelate. Hedonic models estimate capitalisation effects of LRT-related accessibility and overlay zoning on single-family houses and condos in different neighbourhoods for the system in metropolitan Phoenix, Arizona. Impacts differ by housing and neighbourhood type. Amenity-dominated mixed-use neighbourhoods—predominantly WAR communities—experience premiums of 6 per cent for single-family houses and over 20 per cent for condos, the latter boosted an additional 37 per cent by overlay zoning. Residential neighbourhoods—predominantly PAR communities—experience no capitalisation benefits for single-family houses and a discount for condos. The results suggest that land use mix is an important variable to select comparable neighbourhoods.",
+		"container-title": "Urban Studies",
+		"DOI": "10.1177/0042098009357963",
+		"ISSN": "0042-0980, 1360-063X",
+		"issue": "11",
+		"journalAbbreviation": "Urban Studies",
+		"language": "en",
+		"page": "2409-2426",
+		"source": "DOI.org (Crossref)",
+		"title": "Comparing the Capitalisation Benefits of Light-rail Transit and Overlay Zoning for Single-family Houses and Condos by Neighbourhood Type in Metropolitan Phoenix, Arizona",
+		"URL": "http://journals.sagepub.com/doi/10.1177/0042098009357963",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Atkinson-Palombo",
+				"given": "Carol"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "suzuki2015",
+		"type": "book",
+		"call-number": "HE311.D44 S89 2015",
+		"collection-title": "Urban development series",
+		"event-place": "Washington, DC",
+		"ISBN": "978-1-4648-0149-5",
+		"note": "OCLC: ocn865495878",
+		"number-of-pages": "237",
+		"publisher": "World Bank Group",
+		"publisher-place": "Washington, DC",
+		"source": "Library of Congress ISBN",
+		"title": "Financing transit-oriented development with land values: adapting land value capture in developing countries",
+		"title-short": "Financing transit-oriented development with land values",
+		"author": [
+			{
+				"family": "Suzuki",
+				"given": "Hiroaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "suzuki2013",
+		"type": "book",
+		"call-number": "HT166 .S96 2013",
+		"collection-title": "Urban development series",
+		"event-place": "Washington, D.C",
+		"ISBN": "978-0-8213-9745-9",
+		"number-of-pages": "205",
+		"publisher": "World Bank",
+		"publisher-place": "Washington, D.C",
+		"source": "Library of Congress ISBN",
+		"title": "Transforming cities with transit: transit and land-use integration for sustainable urban development",
+		"title-short": "Transforming cities with transit",
+		"author": [
+			{
+				"family": "Suzuki",
+				"given": "Hiroaki"
+			},
+			{
+				"family": "Cervero",
+				"given": "Robert"
+			},
+			{
+				"family": "Iuchi",
+				"given": "Kanako"
+			},
+			{
+				"family": "Cervero",
+				"given": "Robert"
+			},
+			{
+				"family": "Iuchi",
+				"given": "Kanako"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "duncan2008",
+		"type": "article-journal",
+		"container-title": "Transportation Research Record: Journal of the Transportation Research Board",
+		"DOI": "10.3141/2067-14",
+		"ISSN": "0361-1981, 2169-4052",
+		"issue": "1",
+		"journalAbbreviation": "Transportation Research Record",
+		"language": "en",
+		"page": "120-130",
+		"source": "DOI.org (Crossref)",
+		"title": "Comparing Rail Transit Capitalization Benefits for Single-Family and Condominium Units in San Diego, California",
+		"URL": "http://journals.sagepub.com/doi/10.3141/2067-14",
+		"volume": "2067",
+		"author": [
+			{
+				"family": "Duncan",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "kahn2007",
+		"type": "article-journal",
+		"container-title": "Real Estate Economics",
+		"DOI": "10.1111/j.1540-6229.2007.00186.x",
+		"ISSN": "1080-8620, 1540-6229",
+		"issue": "2",
+		"journalAbbreviation": "Real Estate Econ",
+		"language": "en",
+		"page": "155-182",
+		"source": "DOI.org (Crossref)",
+		"title": "Gentrification Trends in New Transit-Oriented Communities: Evidence from 14 Cities That Expanded and Built Rail Transit Systems",
+		"title-short": "Gentrification Trends in New Transit-Oriented Communities",
+		"URL": "http://doi.wiley.com/10.1111/j.1540-6229.2007.00186.x",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Kahn",
+				"given": "Matthew E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "2021",
+		"type": "entry-dictionary",
+		"abstract": "\"peak land-value intersection\" published on  by null.",
+		"container-title": "Oxford Reference",
+		"event-place": "Oxford, UK",
+		"language": "en",
+		"note": "DOI: 10.1093/oi/authority.20110803100312811",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford, UK",
+		"title": "PEAK LAND-VALUE INTERSECTION",
+		"URL": "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100312811",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "brueckner1987",
+		"type": "chapter",
+		"container-title": "Handbook of Regional and Urban Economics",
+		"ISBN": "978-0-444-87970-7",
+		"language": "en",
+		"note": "DOI: 10.1016/S1574-0080(87)80006-8",
+		"page": "821-845",
+		"publisher": "Elsevier",
+		"source": "DOI.org (Crossref)",
+		"title": "Chapter 20 The structure of urban equilibria: A unified treatment of the muth-mills model",
+		"title-short": "Chapter 20 The structure of urban equilibria",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1574008087800068",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Brueckner",
+				"given": "Jan K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "nicholson2002",
+		"type": "book",
+		"call-number": "HB172 .N49 2002",
+		"edition": "8th ed",
+		"event-place": "Cincinnati, Ohio",
+		"ISBN": "978-0-03-033593-8",
+		"number-of-pages": "748",
+		"publisher": "South-Western/Thomson Learning",
+		"publisher-place": "Cincinnati, Ohio",
+		"source": "Library of Congress ISBN",
+		"title": "Microeconomic theory: basic principles and extensions",
+		"title-short": "Microeconomic theory",
+		"author": [
+			{
+				"family": "Nicholson",
+				"given": "Walter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "mills1967",
+		"type": "article-journal",
+		"container-title": "The American Economic Review",
+		"issue": "2,",
+		"language": "en",
+		"page": "197-210",
+		"source": "Zotero",
+		"title": "An Aggregative Model of Resource Allocation in a Metropolitan Area",
+		"URL": "http://www.jstor.org/stable/1821621",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Mills",
+				"given": "Edwin S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "morency-lavoie2015",
+		"type": "thesis",
+		"abstract": "The spatial model presented in this thesis explains the existing structure of Bergen and foresees how the city could evolve with the development of the light rails network (Bybanen). Many researches and policies were aimed at discouraging the use of cars. The approach taken here is not to force conversion of present automobiles drivers into collective transport users, but to make sure new commuters will predominately choose more sustainable modes of transport in the future. The key aspect is the appropriate location of new dense residential developments. Monocentric “compactness” does not necessarily result in a higher energy efficient city. Considering that further densification of Bergen Sentrum is not a feasible political/physical option, a light rail networks could lead, accordingly to the least commuting principle, to a denser city along the Bybanen route. As a strong sustainable symbol and a serious financial commitment, the Bybanen has the potential transform expectations and attitudes. Ultimately the Bybanen is a proficient strategy that will reshape the city; an opportunity to reduce GHG emissions and increase the societal welfare through (green) mobility.",
+		"event-place": "Bergen",
+		"genre": "Master Thesis",
+		"language": "en",
+		"number-of-pages": "120",
+		"publisher": "Norwegian School of Economics",
+		"publisher-place": "Bergen",
+		"source": "Zotero",
+		"title": "Von Thünen on the Bybanen",
+		"title-short": "Von Thünen on the Bybanen: a spatial model of the commute in Bergen",
+		"URL": "https://core.ac.uk/reader/52122360",
+		"author": [
+			{
+				"family": "Morency-Lavoie",
+				"given": "Félix"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "malpezzi2002",
+		"type": "chapter",
+		"container-title": "Housing Economics and Public Policy",
+		"event-place": "Oxford, UK",
+		"ISBN": "978-0-470-69068-0",
+		"language": "en",
+		"note": "DOI: 10.1002/9780470690680.ch5",
+		"page": "67-89",
+		"publisher": "Blackwell Science Ltd",
+		"publisher-place": "Oxford, UK",
+		"source": "DOI.org (Crossref)",
+		"title": "Hedonic Pricing Models: A Selective and Applied Review",
+		"title-short": "Hedonic Pricing Models",
+		"URL": "http://doi.wiley.com/10.1002/9780470690680.ch5",
+		"editor": [
+			{
+				"family": "O'Sullivan",
+				"given": "Tony"
+			},
+			{
+				"family": "Gibb",
+				"given": "Kenneth"
+			}
+		],
+		"author": [
+			{
+				"family": "Malpezzi",
+				"given": "Stephen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "bertaud2003",
+		"type": "article-journal",
+		"abstract": "This paper has been supported by the World Bank. Malpezzi's work on this paper has also been supported by the UW's World Affairs and the Global Economy (WAGE) Initiative, and the Center for Urban Land Economics Research. Opinions in this paper are those of the authors, and do not reflect the views of any institution.",
+		"language": "en",
+		"page": "103",
+		"source": "Zotero",
+		"title": "The Spatial Distribution of Population in 48 World Cities: Implications for Economies in Transition",
+		"author": [
+			{
+				"family": "Bertaud",
+				"given": "Alain"
+			},
+			{
+				"family": "Malpezzi",
+				"given": "Stephen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					12,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "jardim2016",
+		"type": "thesis",
+		"abstract": "Central à formatação de cidades, estão as leis de uso e ocupação do solo. Estas, são regras que determinam o modo como os arquitetos e os construtores projetam e constroem os edifícios, influenciam no modo com que a população se interage e ocupa o espaço, interveem nas forças de mercado e explicam parte da eficiência econômica das cidades e das receitas tributárias do governo. Esta monografia aborda o caráter legislativo, geométrico e econômico de Belo Horizonte e de centros urbanos no Brasil e no mundo e estabelece uma conexão empírica entre a estrutura espacial urbana e o desenvolvimento econômico. Consistente com as economias de aglomeração, a variação da densidade urbana e os níveis de capital humano se mostraram eficazes em explicar as variações na produtividade. Similar ao efeito evidenciado na literatura internacional, a produtividade aumenta em 9,13% com a dobra da densidade urbana no nível metropolitano. Já a nível municipal, a produtividade aumenta em 22,78% sobre o mesmo efeito. No entanto, o estudo demonstra que a medida de densidade utilizada não leva em conta a estrutura espacial dos centros urbanos. O efeito da densidade estrutural, uma abordagem que leva em conta as distâncias entre as regiões populosas dos centros urbanos, é em média 15% superior para o nível metropolitano e 5% superior no nível municipal. Além disso, a integração do modelo de produtividade a modelos de estrutura espacial demonstra que a produtividade é superior para uma estrutura monocêntrica por elevar a densidade e diminuir as distâncias. O estudo evidencia que se Belo Horizonte fosse uma cidade monocêntrica forte, a produtividade da população seria 30% superior. Contudo, a parametrização do modelo econômico a modelos urbanos reais, um subproduto desta pesquisa, representa um salto tecnológico no que tange a avaliação e simulação de políticas urbanas, análise de investimentos e choques de mercado bem como viabilidade de empreendimentos do setor privado.",
+		"event-place": "Belo Horizonte",
+		"genre": "Trabalho de Conclusão de Curso",
+		"language": "pt",
+		"number-of-pages": "80",
+		"publisher": "Grupo Educacional Ibmec",
+		"publisher-place": "Belo Horizonte",
+		"source": "Zotero",
+		"title": "Desenvolvimento Urbano e Econômico: uma conexão entre práticas de planejamento urbano, estrutura espacial urbana e o desenvolvimento econômico",
+		"title-short": "Desenvolvimento urbano e econômico",
+		"author": [
+			{
+				"family": "Jardim",
+				"given": "Thiago Magalhães Gomes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "cervero1997",
+		"type": "article-journal",
+		"container-title": "Transportation Research Part D: Transport and Environment",
+		"DOI": "10.1016/S1361-9209(97)00009-6",
+		"ISSN": "13619209",
+		"issue": "3",
+		"journalAbbreviation": "Transportation Research Part D: Transport and Environment",
+		"language": "en",
+		"page": "199-219",
+		"source": "DOI.org (Crossref)",
+		"title": "Travel demand and the 3Ds: Density, diversity, and design",
+		"title-short": "Travel demand and the 3Ds",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1361920997000096",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Cervero",
+				"given": "Robert"
+			},
+			{
+				"family": "Kockelman",
+				"given": "Kara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1997",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "cmsp2018",
+		"type": "webpage",
+		"container-title": "Metrô de São Paulo",
+		"language": "pt-BR",
+		"title": "Linha do tempo – Metrô 50 anos",
+		"URL": "http://50anos.metrosp.com.br/index.php/linha-do-tempo/",
+		"author": [
+			{
+				"family": "CMSP",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "cmsp2021",
+		"type": "webpage",
+		"container-title": "Metrô de São Paulo",
+		"title": "Metrô São Paulo | Quem somos - saiba sobre transporte metropolitano",
+		"title-short": "Quem Somos",
+		"URL": "http://www.metro.sp.gov.br/metro/institucional/quem-somos/index.aspx",
+		"author": [
+			{
+				"family": "CMSP",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "rosen1974",
+		"type": "article-journal",
+		"container-title": "Journal of Political Economy",
+		"ISSN": "00223808, 1537534X",
+		"issue": "1",
+		"note": "publisher: University of Chicago Press",
+		"page": "34–55",
+		"title": "Hedonic prices and implicit markets: Product differentiation in pure competition",
+		"URL": "http://www.jstor.org/stable/1830899",
+		"volume": "82",
+		"author": [
+			{
+				"family": "Rosen",
+				"given": "Sherwin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "seabra2016",
+		"type": "article-journal",
+		"abstract": "This study provides estimates of the amenities’ inﬂuence on the value of residential property in Recife, a city particularly marked by the presence of beaches and rivers. Therefore, a model of hedonic prices with correction for diﬀerent types of spatial dependence was considered and a rich database provided by the City Hall was used, which includes information about sold properties and urban amenities. The evidence indicates that “ocean view” and proximity to the river are the most valued amenities in the city, while the value of real estate tends to be negatively aﬀected by proximity to ZEIS, subways and violent places.",
+		"container-title": "Economia Aplicada",
+		"DOI": "10.11606/1413-8050/ea147474",
+		"ISSN": "1980-5330, 1413-8050",
+		"issue": "1",
+		"journalAbbreviation": "Econ. Aplic.",
+		"language": "pt",
+		"page": "143",
+		"source": "DOI.org (Crossref)",
+		"title": "Urban amenities and Real State Value: An Empirical Analysis for Recife City",
+		"title-short": "Urban amenities and Real State Value",
+		"URL": "http://www.revistas.usp.br/ecoa/article/view/111684",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Seabra",
+				"given": "Deborah Maria da Silva"
+			},
+			{
+				"family": "Silveira Neto",
+				"given": "Raul Da Mota"
+			},
+			{
+				"family": "Menezes",
+				"given": "Tatiane Almeida",
+				"dropping-particle": "de"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "paez2012",
+		"type": "article-journal",
+		"abstract": "Accessibility is a concept of continuing relevance in transportation research. A number of different measures of accessibility, deﬁned as the potential to reach spatially dispersed opportunities, have been proposed in the literature, and used to address various substantive planning and policy questions. Our objective in this paper is to conduct a review of various commonly used measures of accessibility, with a particular view to clarifying their normative (i.e. prescriptive), as well as positive (i.e. descriptive) aspects. This is a distinction that has seldom been made in the literature and that helps to better understand the meaning of alternative ways to implement the concept of accessibility. Our discussion of the positive and normative aspects of accessibility measurements is illustrated using the city of Montreal, Canada, as a case study. The example highlights the differences in the measured levels of accessibility depending on implementation. Comparison of the two by means of a relative indicator of accessibility helps to identify the gap between desired (as normative deﬁned) and actual (as revealed) accessibility levels.",
+		"container-title": "Journal of Transport Geography",
+		"DOI": "10.1016/j.jtrangeo.2012.03.016",
+		"ISSN": "09666923",
+		"journalAbbreviation": "Journal of Transport Geography",
+		"language": "en",
+		"page": "141-153",
+		"source": "DOI.org (Crossref)",
+		"title": "Measuring accessibility: positive and normative implementations of various accessibility indicators",
+		"title-short": "Measuring accessibility",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0966692312000798",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Páez",
+				"given": "Antonio"
+			},
+			{
+				"family": "Scott",
+				"given": "Darren M."
+			},
+			{
+				"family": "Morency",
+				"given": "Catherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "anselin2013",
+		"type": "article-journal",
+		"abstract": "We investigate the common conjecture in applied econometric work that the inclusion of spatial ﬁxed effects in a regression speciﬁcation for a single cross-sectional data set removes spatial dependence. We demonstrate analytically and by means of a series of simulation experiments how evidence of the removal of spatial autocorrelation by spatial ﬁxed effects may be spurious when the true data generating processes (DGP) takes the form of a spatial lag or spatial error dependence. In addition, we also show that spatial ﬁxed effects correctly remove spatial correlation only in the special case where the dependence is group-wise, with all observations in the same group as neighbours of each other.",
+		"container-title": "Papers in Regional Science",
+		"DOI": "10.1111/j.1435-5957.2012.00480.x",
+		"ISSN": "10568190",
+		"issue": "1",
+		"journalAbbreviation": "Pap Reg Sci",
+		"language": "en",
+		"page": "3-17",
+		"source": "DOI.org (Crossref)",
+		"title": "Spatial fixed effects and spatial dependence in a single cross-section: Spatial fixed effects and spatial dependence",
+		"title-short": "Spatial fixed effects and spatial dependence in a single cross-section",
+		"URL": "http://doi.wiley.com/10.1111/j.1435-5957.2012.00480.x",
+		"volume": "92",
+		"author": [
+			{
+				"family": "Anselin",
+				"given": "Luc"
+			},
+			{
+				"family": "Arribas-Bel",
+				"given": "Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "kuminoff2010",
+		"type": "article-journal",
+		"abstract": "The hedonic property value model is among our foremost tools for evaluating the economic consequences of policies that target the supply of local public goods, environmental services, and urban amenities. We design a theoretically consistent and empirically realistic Monte Carlo study of whether omitted variables seriously undermine the method’s ability to accurately identify economic values. Our results suggest that large gains in accuracy can be realized by moving from the standard linear speciﬁcations for the price function to a more ﬂexible framework that uses a combination of spatial ﬁxed effects, quasi-experimental identiﬁcation, and temporal controls for housing market adjustment.",
+		"container-title": "Journal of Environmental Economics and Management",
+		"DOI": "10.1016/j.jeem.2010.06.001",
+		"ISSN": "00950696",
+		"issue": "3",
+		"journalAbbreviation": "Journal of Environmental Economics and Management",
+		"language": "en",
+		"page": "145-160",
+		"source": "DOI.org (Crossref)",
+		"title": "Which hedonic models can we trust to recover the marginal willingness to pay for environmental amenities?",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0095069610000756",
+		"volume": "60",
+		"author": [
+			{
+				"family": "Kuminoff",
+				"given": "Nicolai V."
+			},
+			{
+				"family": "Parmeter",
+				"given": "Christopher F."
+			},
+			{
+				"family": "Pope",
+				"given": "Jaren C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "halvorsen1981",
+		"type": "article-journal",
+		"container-title": "Journal of Urban Economics",
+		"DOI": "10.1016/0094-1190(81)90021-8",
+		"ISSN": "00941190",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Urban Economics",
+		"language": "en",
+		"page": "37-49",
+		"source": "DOI.org (Crossref)",
+		"title": "Choice of functional form for hedonic price equations",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/0094119081900218",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Halvorsen",
+				"given": "Robert"
+			},
+			{
+				"family": "Pollakowski",
+				"given": "Henry O."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1981",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "cropper1988",
+		"type": "article-journal",
+		"container-title": "The Review of Economics and Statistics",
+		"DOI": "10.2307/1935831",
+		"ISSN": "00346535",
+		"issue": "4",
+		"journalAbbreviation": "The Review of Economics and Statistics",
+		"language": "en",
+		"page": "668",
+		"source": "DOI.org (Crossref)",
+		"title": "On the Choice of Funtional Form for Hedonic Price Functions",
+		"URL": "https://www.jstor.org/stable/1935831?origin=crossref",
+		"volume": "70",
+		"author": [
+			{
+				"family": "Cropper",
+				"given": "Maureen L."
+			},
+			{
+				"family": "Deck",
+				"given": "Leland B."
+			},
+			{
+				"family": "McConnell",
+				"given": "Kenenth E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "geosampa2021",
+		"type": "webpage",
+		"title": "Sistema de Consulta do Mapa Digital da Cidade de São Paulo",
+		"URL": "http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "observasampa",
+		"type": "webpage",
+		"title": "ObservaSampa – Observatório de Indicadores da Cidade de São Paulo",
+		"URL": "http://observasampa.prefeitura.sp.gov.br/seguranca-e-violencia",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "paulo",
+		"type": "webpage",
+		"title": "Observatório Sampa | ObservaSampa | Prefeitura de São Paulo",
+		"URL": "http://observasampa.prefeitura.sp.gov.br/",
+		"author": [
+			{
+				"family": "Paulo",
+				"given": "PRODAM-Empresa de Tecnologia da Informação e Comunicação do Município de São"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "fipe",
+		"type": "webpage",
+		"abstract": "A Fipe tem atuação nas áreas de indicadores econômicos, ensino e projetos e pesquisa. Acesse e conheça o conteúdo informativo que o site oferece.",
+		"container-title": "Fipe",
+		"language": "pt-br",
+		"title": "POF - Pesquisa de Orçamentos Familiares",
+		"URL": "https://www.fipe.org.br/",
+		"author": [
+			{
+				"family": "Fipe",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "prefeituradorecifea",
+		"type": "webpage",
+		"container-title": "Portal de Licenciamento Urbanístico",
+		"title": "Quais são os tipos de ZEIS?",
+		"URL": "https://licenciamento.recife.pe.gov.br/node/920",
+		"author": [
+			{
+				"literal": "Prefeitura do Recife"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "lesage1999",
+		"type": "article-journal",
+		"title": "The theory and practice of spatial econometrics",
+		"author": [
+			{
+				"family": "Lesage",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "bancocentraldobrasil2021",
+		"type": "webpage",
+		"container-title": "Banco Central do Brasil",
+		"title": "BCB - Calculadora do cidadão",
+		"URL": "https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice",
+		"author": [
+			{
+				"literal": "BANCO CENTRAL DO BRASIL"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "baumont2004",
+		"type": "report",
+		"genre": "Research Report",
+		"page": "26 pages, figures, bibliographie",
+		"publisher": "Laboratoire d'économie et de gestion (LEG)",
+		"source": "HAL Archives Ouvertes",
+		"title": "Spatial effects in housing price models : do housing prices capitalize urban development policies in the agglomeration of Dijon (1999) ?",
+		"title-short": "Spatial effects in housing price models",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01525664",
+		"author": [
+			{
+				"family": "Baumont",
+				"given": "Catherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "pereira2019",
+		"type": "article-journal",
+		"abstract": "Um dos principais objetivos das políticas de transporte urbano é facilitar o acesso das pessoas a oportunidades de emprego, serviços de saúde e educação, atividades culturais e de lazer. No entanto, os estudos e as políticas de mobilidade urbana no Brasil costumam dar ênfase aos desafios de reduzir congestionamentos e o tempo que as pessoas gastam no trânsito, ao passo que dedicam pouca atenção ao tema da acessibilidade urbana. Este estudo apresenta os primeiros resultados do Projeto Acesso a Oportunidades, e faz um retrato das desigualdades de acesso a oportunidades nas maiores cidades brasileiras no ano de 2019, com estimativas de acesso a empregos, serviços de saúde e educação. Nesta edição, o estudo inclui estimativas de acessibilidade por modos de transporte ativo (a pé e de bicicleta) para as vinte maiores cidades do país, e por transporte público para sete grandes cidades (São Paulo, Rio de Janeiro, Belo Horizonte, Recife, Fortaleza, Porto Alegre e Curitiba). O projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo, para se calcular os níveis de acessibilidade em alta resolução espacial, e desagregados por grupos socioeconômicos segundo nível de renda e cor/raça. Os resultados revelam dois padrões gerais. Em todas as vinte cidades estudadas, a concentração de atividades nas áreas urbanas centrais aliada à performance/conectividade das redes de transporte leva a áreas de alta acessibilidade próximas ao centro das cidades, em contraste com regiões de periferia marcadas por desertos de oportunidades. Ainda, os resultados apontam que a população branca e de alta renda tem em média mais acesso a oportunidades de trabalho, saúde e educação do que a população negra e pobre em todas as cidades estudadas, independentemente do meio de transporte considerado. Os resultados e bases de dados do Projeto Acesso a Oportunidades são disponíveis publicamente, criando rico material que pode ser utilizado para guiar o planejamento e avaliação de políticas públicas que promovam cidades sustentáveis e inclusivas.",
+		"container-title": "http://www.ipea.gov.br",
+		"journalAbbreviation": "Texto para Discussão (TD) 2535 : Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras – 2019",
+		"language": "pt-BR",
+		"note": "Accepted: 2020-01-13T15:08:23Z\npublisher: Instituto de Pesquisa Econômica Aplicada (Ipea)",
+		"source": "repositorio.ipea.gov.br",
+		"title": "Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras – 2019",
+		"URL": "http://repositorio.ipea.gov.br/handle/11058/9586",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rafael Henrique Moraes"
+			},
+			{
+				"family": "Braga",
+				"given": "Carlos Kauê Vieira"
+			},
+			{
+				"family": "Serra",
+				"given": "Bernardo"
+			},
+			{
+				"family": "Nadalin",
+				"given": "Vanessa Gapriotti"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "rfoundation2021",
+		"type": "webpage",
+		"title": "R: The R Project for Statistical Computing",
+		"URL": "https://www.r-project.org/",
+		"author": [
+			{
+				"family": "R Foundation",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "psp2016a",
+		"type": "bill",
+		"abstract": "Legislação Municipal - Catálogo de Legislação Municipal. Pesquisa de leis, normas, decretos e portarias do Município de São Paulo.",
+		"authority": "Prefeitura do Município de São Paulo",
+		"language": "pt-BR",
+		"number": "16.402",
+		"title": "LEI Nº 16.402 DE 22 DE MARÇO DE 2016",
+		"URL": "http://legislacao.prefeitura.sp.gov.br/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "psp2016b",
+		"type": "map",
+		"event-place": "São  Paulo",
+		"publisher-place": "São  Paulo",
+		"title": "Perímetros de Qualificação Ambiental",
+		"URL": "https://gestaourbana.prefeitura.sp.gov.br/wp-content/uploads/2016/03/Mapa03_QUOTA.pdf",
+		"author": [
+			{
+				"family": "Prefeitura do Município de São Paulo",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "anselin1999",
+		"type": "chapter",
+		"container-title": "Geographic information system: principles, techniques, management and applications.",
+		"edition": "1",
+		"event-place": "Nova York",
+		"language": "en",
+		"page": "253-266",
+		"publisher": "John Wiley",
+		"publisher-place": "Nova York",
+		"source": "Zotero",
+		"title": "Interactive techniques and exploratory spatial data analysis",
+		"author": [
+			{
+				"family": "Anselin",
+				"given": "Luc"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Longley",
+				"given": "P. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "googleapi2021",
+		"type": "webpage",
+		"abstract": "Formato para a troca de informações estáticas sobre transporte público.",
+		"container-title": "Google Developers",
+		"language": "pt-BR",
+		"title": "Visão geral da GTFS estática | Google Transit estático",
+		"URL": "https://developers.google.com/transit/gtfs?hl=pt-br",
+		"author": [
+			{
+				"family": "Google",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "haddad2013",
+		"type": "article-journal",
+		"abstract": "Over one million workers commute daily to São Paulo city center, using different modes of transportation. The São Paulo subway network reaches 74.2 kilometers of length and is involved in around 20% of the commuting trips by public transportation, enhancing mobility and productivity of workers. This paper uses an integrated framework to assess the wider economic impacts of the existing underground metro infrastructure. We consider links between mobility, accessibility and labor productivity in the context of a detailed metropolitan system embedded in the national economy. Simulation results from a spatial computable general equilibrium model integrated to a transportation model suggest positive economic impacts that go beyond the city limits. While 32% of the impacts accrue to the city of São Paulo, the remaining 68% benefit other municipalities in the metropolitan area (11%), in the State of São Paulo (12.0%) and in the rest of the country (45%). The estimated impact on annual Brazilian GDP is equivalent to approximately 65% of the construction cost of the whole network.",
+		"language": "en",
+		"page": "29",
+		"source": "Zotero",
+		"title": "The Underground Economy: Tracking the Wider Impacts of the São Paulo Subway System",
+		"author": [
+			{
+				"family": "Haddad",
+				"given": "Eduardo A"
+			},
+			{
+				"family": "Hewings",
+				"given": "Geoffrey J D"
+			},
+			{
+				"family": "Porsse",
+				"given": "Alexandre A"
+			},
+			{
+				"family": "Van",
+				"given": "Eveline S"
+			},
+			{
+				"family": "Vieira",
+				"given": "Renato S"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "haddad2015",
+		"type": "article-journal",
+		"container-title": "Transportation Research Part A: Policy and Practice",
+		"DOI": "10.1016/j.tra.2014.12.011",
+		"ISSN": "09658564",
+		"journalAbbreviation": "Transportation Research Part A: Policy and Practice",
+		"language": "en",
+		"page": "18-30",
+		"source": "DOI.org (Crossref)",
+		"title": "The underground economy: Tracking the higher-order economic impacts of the São Paulo Subway System",
+		"title-short": "The underground economy",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0965856414003036",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Haddad",
+				"given": "Eduardo A."
+			},
+			{
+				"family": "Hewings",
+				"given": "Geoffrey J.D."
+			},
+			{
+				"family": "Porsse",
+				"given": "Alexandre A."
+			},
+			{
+				"family": "Van Leeuwen",
+				"given": "Eveline S."
+			},
+			{
+				"family": "Vieira",
+				"given": "Renato S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "milt2013",
+		"type": "article-journal",
+		"language": "en",
+		"page": "36",
+		"source": "Zotero",
+		"title": "Urban Development in Tokyo",
+		"author": [
+			{
+				"family": "Ministry of Land, Infrastructure, Transport, and Tourism",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "b32017",
+		"type": "webpage",
+		"abstract": "S_Ficha_Des",
+		"language": "pt-BR",
+		"title": "CEPAC | B3",
+		"URL": "http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/cepac.htm",
+		"author": [
+			{
+				"family": "B3",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "brasil2001",
+		"type": "bill",
+		"abstract": "Regulamenta os arts. 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana e dá outras providências.",
+		"authority": "República Federativa do Brasil",
+		"language": "pt-BR",
+		"number": "10,257",
+		"title": "LEI Nº 10.257, DE 10 DE JULHO DE 2001",
+		"title-short": "Estatuto da Cidade",
+		"URL": "http://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+		"author": [
+			{
+				"family": "BRASIL",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					7,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "ulied2021",
+		"type": "report",
+		"abstract": "A publicação “Teresina: estudo de pré-viabilidade para recuperação de mais-valias fundiárias em sistemas de Desenvolvimento Orientado ao Transporte (DOT)” origina-se de estudo realizado em parceria entre BID e MDR com apoio da consultoria das empresas MCrit e Urban System. O principal objetivo do trabalho é avaliar a estrutura existente na cidade de Teresina para implementação de recuperação de mais valias fundiárias. A publicação traz a avaliação de tres áreas aptas a implementação DOT, seus respectivos cenários de desenvolvimento imobiliário e potenciais de captura de incremento do valor do solo. Ao final so apresentadas propostas de intervenção e recomendações para o marco regulatório, no sentido de preparar a cidade para uma estratégia DOT.",
+		"genre": "Monografia do BID",
+		"language": "pt-BR",
+		"note": "DOI: 10.18235/0003372",
+		"number": "935",
+		"page": "218",
+		"publisher": "Inter-American Development Bank",
+		"source": "DOI.org (Crossref)",
+		"title": "Teresina: estudo de pré-viabilidade para recuperacão de mais-valias fundiárias em sistemas de Desenvolvimento Orientado ao Transporte (DOT)",
+		"URL": "https://publications.iadb.org/pt/node/30508",
+		"collection-editor": [
+			{
+				"family": "Hobbs",
+				"given": "Jason Anthony"
+			},
+			{
+				"family": "Seabra",
+				"given": "Renata"
+			},
+			{
+				"family": "Baima Cavalcanti",
+				"given": "Carolina"
+			},
+			{
+				"family": "Oliveira Pereira",
+				"given": "Isabela"
+			}
+		],
+		"author": [
+			{
+				"family": "Ulied",
+				"given": "Andreu"
+			},
+			{
+				"family": "Biosca",
+				"given": "Oriel"
+			},
+			{
+				"family": "Solé",
+				"given": "Albert"
+			},
+			{
+				"family": "Lloveras",
+				"given": "Frederic"
+			},
+			{
+				"family": "Sarry",
+				"given": "Sotiria"
+			},
+			{
+				"family": "Franco",
+				"given": "Nati"
+			},
+			{
+				"family": "Rodrigo",
+				"given": "Rafa"
+			},
+			{
+				"family": "Montes da Cruz",
+				"given": "André"
+			},
+			{
+				"family": "Pedace",
+				"given": "Maria Cecília"
+			},
+			{
+				"family": "Oliveira",
+				"given": "Karina",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Hitomi",
+				"given": "Carolina"
+			},
+			{
+				"family": "Morais dos Anjos",
+				"given": "Janaina"
+			},
+			{
+				"family": "Muntal",
+				"given": "Judith"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "bancomundial2018",
+		"type": "report",
+		"language": "pt",
+		"number": "1254006",
+		"page": "138",
+		"source": "Zotero",
+		"title": "Financiamento da Infraestrutura de Transporte e Transformação Urbana através de Mecanismos de Recuperação da Valorização Imobiliária",
+		"author": [
+			{
+				"family": "Banco Mundial",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "cmsp2021a",
+		"type": "legislation",
+		"language": "pt",
+		"number": "10016102",
+		"title": "SERVIÇOS DE FINANCIAL ADVISORY, PARA A REALIZAÇÃO DE AVALIAÇÃO ECONÔMICO-FINANCEIRA, ANÁLISE JURÍDICA/LEGAL, ESTUDO MERCADOLÓGICO E MARKET SOUNDING PRELIMINARES, RELATIVOS À IMPLANTAÇÃO DA LINHA 20 - ROSA",
+		"contributor": [
+			{
+				"family": "CMSP",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "smolka2013",
+		"type": "book",
+		"abstract": "This report provides a review of land value capture's antecedents in Latin America and itslongstanding presence in the urban planning agenda. It also examines a variety of landvalue capture instruments including: property taxation and betterment contributions;exactions and charges for building rights; and large-scale approaches such as thedevelopment of public land through privatization or acquisition.",
+		"event-place": "Cambridge, MA",
+		"ISBN": "978-1-55844-284-9",
+		"language": "en",
+		"note": "OCLC: 1044568436",
+		"publisher": "Lincoln Institute of Land Policy",
+		"publisher-place": "Cambridge, MA",
+		"source": "Open WorldCat",
+		"title": "Implementing value capture in Latin America: policies and tools for urban development",
+		"title-short": "Implementing value capture in Latin America",
+		"URL": "https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=5742348",
+		"author": [
+			{
+				"family": "Smolka",
+				"given": "Martim Oscar"
+			},
+			{
+				"literal": "Lincoln Institute of Land Policy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6857049/items/YC7FRNFR",
+		"type": "document",
+		"title": "spatialeconometrics.pdf",
+		"URL": "https://www.msarrias.com/uploads/3/7/7/8/37783629/spatialeconometrics.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "lesage2009",
+		"type": "book",
+		"call-number": "HT388 .L47 2009",
+		"collection-title": "Statistics, textbooks and monographs",
+		"event-place": "Boca Raton",
+		"ISBN": "978-1-4200-6424-7",
+		"note": "OCLC: 166358420",
+		"number-of-pages": "354",
+		"publisher": "CRC Press",
+		"publisher-place": "Boca Raton",
+		"source": "Library of Congress ISBN",
+		"title": "Introduction to spatial econometrics",
+		"author": [
+			{
+				"family": "LeSage",
+				"given": "James P."
+			},
+			{
+				"family": "Pace",
+				"given": "R. Kelley"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "lesage2014",
+		"type": "article-journal",
+		"abstract": "There is near universal agreement that estimates and inferences from spatial regression models are sensitive to particular specifications used for the spatial weight structure in these models. We find little theoretical basis for this commonly held belief, if estimates and inferences are based on the true partial derivatives for a well-specified spatial regression model. We conclude that this myth may have arisen from past applied work that incorrectly interpreted the model coefficients as if they were partial derivatives, or from use of misspecified models.",
+		"container-title": "Econometrics",
+		"DOI": "10.3390/econometrics2040217",
+		"journalAbbreviation": "Econometrics",
+		"source": "ResearchGate",
+		"title": "The Biggest Myth in Spatial Econometrics",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Lesage",
+				"given": "James"
+			},
+			{
+				"family": "Pace",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "kelejian1998",
+		"type": "article-journal",
+		"abstract": "Cross-sectional spatial models frequently contain a spatial lag of the dependent variable as a regressor or a disturbance term that is spatially autoregressive. In this article we describe a computationally simple procedure for estimating cross-sectional models that contain both of these characteristics. We also give formal large-sample results. Copyright 1998 by Kluwer Academic Publishers",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007707430416",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"page": "99-121",
+		"source": "ResearchGate",
+		"title": "A Generalized Spatial Two-Stage Least Squares Procedure for Estimating A Spatial Autoregressive Model with Autoregressive Disturbances",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Kelejian",
+				"given": "Harry"
+			},
+			{
+				"family": "Prucha",
+				"given": "Ingmar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "ssp2021",
+		"type": "webpage",
+		"container-title": "Secretaria de Segurança Pública do Estado de São Paulo",
+		"genre": "Site governamental",
+		"language": "pt-BR",
+		"title": "Dados Estatísticos do Estado de São Paulo",
+		"URL": "http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx",
+		"author": [
+			{
+				"family": "SSP",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "brasil1990",
+		"type": "bill",
+		"abstract": "Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Constituição Federal, e determina outras providências.",
+		"number": "8072",
+		"title": "LEI Nº 8.072, DE 25 DE JULHO DE 1990",
+		"URL": "http://www.planalto.gov.br/ccivil_03/leis/l8072.htm",
+		"author": [
+			{
+				"family": "BRASIL",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					7,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "tyszler2006",
+		"type": "thesis",
+		"abstract": "Com o crescente uso das teorias e métodos vindos das áreas de economia\nregional e urbana, economia e econometria espacial na fronteira entre as áreas de\neconomia e políticas públicas, estudar esse arcabouço teórico e metodológico torna-se\nrelevante no campo da análise de políticas públicas.\nO objetivo geral dessa dissertação é discutir de modo crítico aspectos da\nliteratura de econometria espacial e sua aplicabilidade, com especial foco na\ncomparação entre os diferentes modelos e matrizes de ponderação espacial.\nEsse estudo procura analisar diferentes formas de medidas que permitem a\nconstrução de uma matriz de ponderação espacial, bem como testar por meio de\nsimulação experimental e em uma aplicação empírica a robustez de algumas dessas\nmatrizes e de diferentes modelos.\nDadas as indicações da literatura e as evidências mostradas nessa dissertação, a\nestratégia mais confiável para a busca de um modelo parece ser utilizar as estimativas\ndos modelos, em conjunto com as estatísticas de Moran, para identificar presença de\nalgum tipo de correlação espacial, e do teste LM da variável dependente, para indicar\nesse tipo de correlação especificamente.\nObserva-se que, de modo geral, não há muita diferença em termos de esperança\ndos parâmetros não espaciais, quando comparadas a estimações tradicionais com as que\nutilizam as técnicas espaciais. Com isso, a indicação que se pode fazer é que o uso das\nferramentas de econometria espacial deve ser aplicado quando o interesse da análise é\njustamente na estimação dos parâmetros de correlação espacial.\nComparando o uso da matriz de contigüidade no lugar da matriz de distâncias, é\npossível notar que a matriz de contigüidade não é, de forma geral, uma boa substituição\npara a matriz de distâncias. Ela capta parcialmente o efeito de rho e lambda, além de\ncaptar erroneamente lambda, quando este inexiste.",
+		"event-place": "São Paulo",
+		"genre": "Dissertação",
+		"language": "pt-BR",
+		"number-of-pages": "155",
+		"publisher": "Escola de Administração de Empresas de São Paulo",
+		"publisher-place": "São Paulo",
+		"title": "Econometria espacial: discutindo medidas para a matriz de ponderação espacial",
+		"URL": "http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/2451/155051.pdf?sequence=2&isAllowed=y",
+		"author": [
+			{
+				"family": "Tyszler",
+				"given": "Marcelo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "wonkim2003",
+		"type": "article-journal",
+		"abstract": "The primary objective of this paper is to improve the methodology for estimating hedonic price functions when the data are inherently spatial. A spatial-econometric hedonic housing price model is developed and estimated for the Seoul metropolitan area to measure the marginal value of improvements in sulfur dioxide (SO2) and nitrogen dioxide (NOx) concentrations. Diagnostic testing favored the spatial-lag model over the spatial error model. Results showed that SO2 pollution levels had a significant impact on housing prices while NOx pollution did not. The authors attribute this differential impact to the relatively higher levels of SO2 pollution when compared with pollution standards and the relative recency of the NOx pollution. Marginal WTP for a 4% improvement in mean SO2 concentrations is about $2333 or 1.4% of mean housing price.",
+		"container-title": "Journal of Environmental Economics and Management",
+		"DOI": "10.1016/S0095-0696(02)00013-X",
+		"ISSN": "0095-0696",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Environmental Economics and Management",
+		"language": "en",
+		"page": "24-39",
+		"source": "ScienceDirect",
+		"title": "Measuring the benefits of air quality improvement: a spatial hedonic approach",
+		"title-short": "Measuring the benefits of air quality improvement",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S009506960200013X",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Won Kim",
+				"given": "Chong"
+			},
+			{
+				"family": "Phipps",
+				"given": "Tim T"
+			},
+			{
+				"family": "Anselin",
+				"given": "Luc"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "jones2003",
+		"type": "book",
+		"abstract": "The aim of this book is to bring methods of land-market and land-price analysis to the foreground. It relates substantive research findings for land and urban development and blends these with a focus on research design and methodology. Its findings have relevance beyond the topics of housing and land: it broaches the whole question of how research design and general approach may lead to fundamentally different findings, different priorities, and different policy prescriptions and preoccupations. It is based on work done in the Third World, but is also relevant to studies of the industrialized world.",
+		"event-place": "London",
+		"ISBN": "9780203214435",
+		"language": "en",
+		"note": "OCLC: 252965892",
+		"publisher": "Taylor & Francis e-Library",
+		"publisher-place": "London",
+		"source": "Open WorldCat",
+		"title": "Methodology for land and housing market analysis",
+		"URL": "http://www.myilibrary.com?id=11523",
+		"editor": [
+			{
+				"family": "Jones",
+				"given": "Gareth E"
+			},
+			{
+				"family": "Ward",
+				"given": "Peter M"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "shoup2003",
+		"type": "chapter",
+		"container-title": "Methodology for Land and Housing Market Analysis",
+		"event-place": "London",
+		"ISBN": "9780203214435",
+		"language": "en",
+		"publisher": "Taylor & Francis e-Library",
+		"publisher-place": "London",
+		"title": "Is under-investment in public infrastructure an anomaly?",
+		"author": [
+			{
+				"family": "Shoup",
+				"given": "Donald C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "wickham2019",
+		"type": "article-journal",
+		"container-title": "Journal of Open Source Software",
+		"DOI": "10.21105/joss.01686",
+		"issue": "43",
+		"page": "1686",
+		"title": "Welcome to the tidyverse",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Wickham",
+				"given": "Hadley"
+			},
+			{
+				"family": "Averick",
+				"given": "Mara"
+			},
+			{
+				"family": "Bryan",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Chang",
+				"given": "Winston"
+			},
+			{
+				"family": "McGowan",
+				"given": "Lucy D'Agostino"
+			},
+			{
+				"family": "François",
+				"given": "Romain"
+			},
+			{
+				"family": "Grolemund",
+				"given": "Garrett"
+			},
+			{
+				"family": "Hayes",
+				"given": "Alex"
+			},
+			{
+				"family": "Henry",
+				"given": "Lionel"
+			},
+			{
+				"family": "Hester",
+				"given": "Jim"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Max"
+			},
+			{
+				"family": "Pedersen",
+				"given": "Thomas Lin"
+			},
+			{
+				"family": "Miller",
+				"given": "Evan"
+			},
+			{
+				"family": "Bache",
+				"given": "Stephan Milton"
+			},
+			{
+				"family": "Müller",
+				"given": "Kirill"
+			},
+			{
+				"family": "Ooms",
+				"given": "Jeroen"
+			},
+			{
+				"family": "Robinson",
+				"given": "David"
+			},
+			{
+				"family": "Seidel",
+				"given": "Dana Paige"
+			},
+			{
+				"family": "Spinu",
+				"given": "Vitalie"
+			},
+			{
+				"family": "Takahashi",
+				"given": "Kohske"
+			},
+			{
+				"family": "Vaughan",
+				"given": "Davis"
+			},
+			{
+				"family": "Wilke",
+				"given": "Claus"
+			},
+			{
+				"family": "Woo",
+				"given": "Kara"
+			},
+			{
+				"family": "Yutani",
+				"given": "Hiroaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "pebesma2018",
+		"type": "article-journal",
+		"container-title": "The R Journal",
+		"DOI": "10.32614/RJ-2018-009",
+		"issue": "1",
+		"page": "439–446",
+		"title": "Simple features for r: Standardized support for spatial vector data",
+		"URL": "https://doi.org/10.32614/RJ-2018-009",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Pebesma",
+				"given": "Edzer"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "tennekes2018",
+		"type": "article-journal",
+		"container-title": "Journal of Statistical Software",
+		"DOI": "10.18637/jss.v084.i06",
+		"issue": "6",
+		"page": "1–39",
+		"title": "tmap: Thematic maps in R",
+		"volume": "84",
+		"author": [
+			{
+				"family": "Tennekes",
+				"given": "Martijn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "wickham2016",
+		"type": "book",
+		"ISBN": "978-3-319-24277-4",
+		"publisher": "Springer-Verlag New York",
+		"title": "ggplot2: Elegant graphics for data analysis",
+		"URL": "https://ggplot2.tidyverse.org",
+		"author": [
+			{
+				"family": "Wickham",
+				"given": "Hadley"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "bivand2021",
+		"type": "article-journal",
+		"container-title": "Mathematics",
+		"DOI": "10.3390/math9111276",
+		"issue": "11",
+		"title": "A review of software for spatial econometrics in R",
+		"URL": "https://www.mdpi.com/2227-7390/9/11/1276",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Bivand",
+				"given": "Roger"
+			},
+			{
+				"family": "Millo",
+				"given": "Giovanni"
+			},
+			{
+				"family": "Piras",
+				"given": "Gianfranco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "bivand2018",
+		"type": "article-journal",
+		"container-title": "TEST",
+		"issue": "3",
+		"page": "716–748",
+		"title": "Comparing implementations of global and local indicators of spatial association",
+		"URL": "https://doi.org/10.1007/s11749-018-0599-x",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Bivand",
+				"given": "Roger"
+			},
+			{
+				"family": "Wong",
+				"given": "David W. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "corrplot2021",
+		"type": "report",
+		"genre": "manual",
+		"title": "R package 'corrplot': Visualization of a correlation matrix",
+		"URL": "https://github.com/taiyun/corrplot",
+		"author": [
+			{
+				"family": "Wei",
+				"given": "Taiyun"
+			},
+			{
+				"family": "Simko",
+				"given": "Viliam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "bertaud2018",
+		"type": "book",
+		"abstract": "\"This book emerges from a 55-year career in urban planning, and is illustrated by the author's real-world experience. Without understanding how markets work, urban planners are likely to design infrastructure and regulations that will adversely impact the functioning of cities. By contrast, urban economists review decisions and outcomes after the fact, often publishing their conclusions in specialized journals that fail to influence decision making. This book is a call for qualitative urban planners and quantitative urban economists to come together. Specifically, the book calls for urban economists to take a larger role in the process of operational urban planning. For example, land prices decrease the further away one gets from a city center. When land prices are high, households and firms consume less land; that is, they live in smaller homes and work in smaller offices. Population density then increases because the city is still a desirable place to be, and you can fit more people in smaller spaces. While urban planning often tries to limit densities, it is almost impossible to do so when the price of land is high. Without understanding the factors that lead to high prices, urban planners cannot effectively plan cities, and rents skyrocket and commutes take longer. Cities generate a large amount of data, often recorded in urban departments, but remain unused; urban economists can make use of this new data and provide answers to critical questions in urban economic development. The book does not introduce new concepts of urban economics but uses existing theories to try to improve the practice of urban planning. It looks at such topics as infrastructure, housing affordability, transportation, labor markets, regulation, mobility, and pollution\"--",
+		"call-number": "HT321 .B478 2018",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-262-03876-8",
+		"number-of-pages": "413",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Library of Congress ISBN",
+		"title": "Order without design: how markets shape cities",
+		"title-short": "Order without design",
+		"author": [
+			{
+				"family": "Bertaud",
+				"given": "Alain"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "bndessetorial2015",
+		"type": "article-journal",
+		"container-title": "BNDES Setorial",
+		"ISSN": "1414-9230",
+		"language": "pt-BR",
+		"page": "396",
+		"title": "BNDES Setorial, n. 41, mar. 2015",
+		"author": [
+			{
+				"family": "BNDES Setorial",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "psp2022",
+		"type": "webpage",
+		"container-title": "Gestão Urbana SP",
+		"genre": "Site governamental",
+		"language": "pt-br",
+		"title": "Coeficiente de Aproveitamento",
+		"URL": "https://gestaourbana.prefeitura.sp.gov.br/coeficiente-de-aproveitamento-ca/",
+		"author": [
+			{
+				"family": "Prefeitura do Município de São Paulo",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "zotero-271",
+		"type": "webpage",
+		"abstract": "A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.",
+		"language": "en",
+		"title": "Pomofocus",
+		"URL": "https://pomofocus.io",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					7
+				]
+			]
+		}
+	}
+]
