@@ -33,7 +33,7 @@ options(
 )
 
 knitr::opts_chunk$set(
-  cache = TRUE,
+  #cache = TRUE,
   echo = FALSE,
   error = FALSE,
   warning = FALSE,
@@ -47,6 +47,7 @@ knitr::opts_chunk$set(
 
 library(readr)
 library(ggplot2)
+library(icons)
 library(here)
 library(tmap)
 library(DT)
@@ -522,18 +523,42 @@ mapa_rede
 ---
 # Obrigado!
 
-## Contato
+.pull-left[.pull-down[
 
-* Arthur Bazolli Alvarenga
-  + [arthur.bazolli@estudante.ufjf.br](arthur.bazolli@estudante.ufjf.br)
-  + [github.com/baarthur0/](github.com/baarthur0/)
-* Ari Francisco de Araujo Junior
-  + [ari.junior@professores.ibmec.edu.br](ari.junior@professores.ibmec.edu.br)
-* Admir Antonio Betarelli Junior
-  + [admir.betarelli@ufjf.br](admir.betarelli@ufjf.br)
+<a href="mailto:arthur.bazolli@estudante.ufjf.br">
+`r icons::fontawesome("paper-plane")` arthur.bazolli@estudante.ufjf.br
+</a>
+
+<a href="https://baarthur.github.io/enaber22/">
+`r icons::fontawesome("link")` baarthur.github.io/enaber22/
+</a>
+
+<a href="http://twitter.com/baarthur0">
+`r icons::fontawesome("twitter")` @baarthur0
+</a>
+
+<a href="http://github.com/baarthur">
+`r icons::fontawesome("github")` @baarthur
+</a>
+
+<br><br><br>
+
+]]
 
 
+.pull-right[.pull-down[
 
+<a href="mailto:ari.junior@professores.ibmec.edu.br">
+`r icons::fontawesome("paper-plane")` ari.junior@professores.ibmec.edu.br
+</a>
+
+<a href="mailto:admir.betarelli@ufjf.br">
+`r icons::fontawesome("paper-plane")` admir.betarelli@ufjf.br
+</a>
+
+<br><br><br>
+
+]]
 
 
 
