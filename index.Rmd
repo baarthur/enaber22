@@ -1,12 +1,10 @@
 ---
 title: "Mercado imobiliário e infraestrutura de transporte"
 subtitle: "<br/>Qual o prêmio de mercado do metrô?"
-author: "Arthur Bazolli Alvarenga, Ari Francisco de Araujo Junior, Admir Antonio Betarelli Junior"
-institute: "Salvador"
-date: "2022/09/28"
+author: "Arthur Bazolli Alvarenga (UFJF), Ari Francisco de Araujo Junior (Ibmec-MG), Admir Antonio Betarelli Junior (UFJF)"
+institute: Fortaleza (CE)
+date: "2022/12/08"
 lang: pt-BR
-bibliography: yaml/Monografia.json
-csl: yaml/ipea.csl
 output:
   xaringan::moon_reader:
     #self_contained: true
@@ -18,12 +16,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       ratio: "16:9"
-    pandoc_args: 
-      - '--lua-filter=yaml/scholarly-metadata.lua'
-      - '--lua-filter=yaml/author-info-blocks.lua'
-    includes:
-      after_body: yaml/insert-logo.html
-      #in_header: yaml/wrap-code.tex
+includes:
+  after_body: yaml/insert-logo.html
 ---
 
 ```{r setup, include=FALSE}
@@ -94,15 +88,15 @@ tmap_options(check.and.fix = TRUE,
  + Aprimorar a modelagem da acessibilidade
  + Aproximar a teoria econômica da realidade
  
-.pull-left[
+.pull-left[ 
 * Investigar o prêmio de mercado
   + A oferta atende à demanda?
   + Primeiro passo para viablilizar operações urbanas
 ]
 
 .pull-right[
-```{r redevelop, out.width="75%", dev.args = list(bg = "transparent"), include=TRUE}
-knitr::include_graphics("https://caosplanejado.com/wp-content/uploads/2022/06/imagem1.png")
+```{r redevelop, out.width="100%", dev.args = list(bg = "transparent"), include=TRUE}
+knitr::include_graphics("img/arrested redevelopment.png")
 ```
 ]
 
@@ -309,7 +303,7 @@ mapa_parques
 * Índice do IPEA com base em dados da RAIS e *feeds* de GTFS
 
 .center[
-```{r aop, include=TRUE, cache=TRUE, fig.height=5, dev.args = list(bg = "transparent")}
+```{r aop, fig.height=5, dev.args = list(bg = "transparent")}
 #![Fonte: Pereira et al., 2020](/output/mapa_aop.png)
 #knitr::include_graphics(here("output/mapa_aop.png"))
 
@@ -414,7 +408,8 @@ tibble::tibble(
 ## Proximidade à CPTM
 
 * Sinal contrário ao esperado
-* Não significativo em todos os modelos prêmio de mercado **não** identificado
+* Não significativo em todos os modelos 
+  + Prêmio de mercado **não** identificado
   
 ```{r cptm, include=TRUE}
 tibble::tibble(
@@ -431,9 +426,9 @@ tibble::tibble(
 ---
 # Resultados
 
-## Na literatura nacional
-  
 .pull-left[
+## Na literatura nacional
+
 * Hermann e Haddad (2005)
   + São Paulo (SP)
   + CPTM significante
@@ -443,20 +438,24 @@ tibble::tibble(
   + Recife (PE)
   + Metrorec com sinal trocado e irrelevante
   
-* No presente trabalho
-  + **Mesma** cidade, resultados **opostos** a Hermann e Haddad (2005)
+## Neste trabalho
+
+* **Mesma** cidade, resultados **opostos** a Hermann e Haddad (2005)
   + Diferença temporal $\approx$ 15 anos
 ]
 
 .pull-right[
-* Possíveis causas
-  + Rede de superfície
-  + Estações periféricas
-  + Sobreposição de redes (Metrô, CPTM, corredores de ônibus)
+
+## Possíveis causas
+
+* Rede de superfície
+* Estações periféricas
+* Sobreposição de redes (Metrô, CPTM, ônibus)
   
-```{r rede, out.width: "25%", include = TRUE}
-mapa_rede
+```{r metro-evol, out.width="75%"}
+knitr::include_graphics("img/metro_sp.png")
 ```
+
 ]
 
 
@@ -529,8 +528,8 @@ mapa_rede
 `r icons::fontawesome("paper-plane")` arthur.bazolli@estudante.ufjf.br
 </a>
 
-<a href="https://baarthur.github.io/enaber22/">
-`r icons::fontawesome("link")` baarthur.github.io/enaber22/
+<a href="https://baarthur.github.io/metro_sp/">
+`r icons::fontawesome("link")` baarthur.github.io/metro_sp/
 </a>
 
 <a href="http://twitter.com/baarthur0">
