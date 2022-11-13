@@ -2,6 +2,7 @@
 **Qual o prêmio de mercado do metrô?**
 
 XX Enaber | Salvador (BA), set/2022
+
 50º Encontro Nacional de Economia | Fortaleza (CE), dez/2022
 
 ## Conteúdo
