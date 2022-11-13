@@ -524,6 +524,8 @@ knitr::include_graphics("img/metro_sp.png")
 
 .pull-left[.pull-down[
 
+### Arthur Bazolli Alvarenga
+
 <a href="mailto:arthur.bazolli@estudante.ufjf.br">
 `r icons::fontawesome("paper-plane")` arthur.bazolli@estudante.ufjf.br
 </a>
@@ -547,9 +549,14 @@ knitr::include_graphics("img/metro_sp.png")
 
 .pull-right[.pull-down[
 
+### Ari Francisco de Araujo Junior
+
 <a href="mailto:ari.junior@professores.ibmec.edu.br">
 `r icons::fontawesome("paper-plane")` ari.junior@professores.ibmec.edu.br
 </a>
+
+
+### Admir Antonio Betarelli Junior
 
 <a href="mailto:admir.betarelli@ufjf.br">
 `r icons::fontawesome("paper-plane")` admir.betarelli@ufjf.br
